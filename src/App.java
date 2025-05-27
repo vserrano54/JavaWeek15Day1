@@ -47,7 +47,7 @@ Una vez definida la clase del ordenador, crea al menos 3 instancias y prueba a i
         System.out.println("Aplicar Oferta al ordenador No. 3");
         ordenador3.aplicarOferta(10);
 
-        System.out.println("Ordenador No.2 con oferta aplicada");
+        System.out.println("Ordenador No.3 con oferta aplicada");
         System.out.println(ordenador3);
 
     }
